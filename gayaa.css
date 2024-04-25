@@ -1,0 +1,73 @@
+span.satu{
+    color: blue;
+    background-color: yellow;
+}
+
+span.dua{
+    color: yellowgreen;
+    background-color: blue;
+}
+span.tiga{
+    color: aqua;
+    background-color: orange;
+}
+
+.img1{
+    width: 400px;
+    height: 300px;
+}
+.img2{
+    width: 400px;
+    height: 300px;
+}
+.img3{
+    width: 400px;
+    height: 300px;
+}
+.img4{
+    width: 400px;
+    height: 300px;;
+}
+.img5{
+    width: 400px;
+    height: 300px;
+}
+.img6{
+    width: 400px;
+    height: 300px;
+}
+.img7{
+    width: 400px;
+    height: 300px;
+}
+
+.img8{
+    width: 400px;
+    height: 300px;
+}
+
+.img9{
+    width: 400px;
+    height: 300px;
+}
+
+.article1{
+    background-color: aquamarine;
+    color: white;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    border: 20px blue solid;
+    padding: 20px;
+    margin: 20px;
+}
+.article2{
+    background-color: yellowgreen;
+    color: brown;
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 10px yellow solid;
+    padding: 10px;
+    margin: 10px;
+}
